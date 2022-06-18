@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T19:00:49 IST" name="Suite" finished-at="2022-05-30T19:00:49 IST" duration-ms="143">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T19:00:49 IST" name="Test" finished-at="2022-05-30T19:00:49 IST" duration-ms="143">
+      <class name="vinay.Mevenjava.RestAPITest">
+        <test-method signature="deletetwi()[pri:0, instance:vinay.Mevenjava.RestAPITest@43dac38f]" started-at="2022-05-30T19:00:49 IST" name="deletetwi" finished-at="2022-05-30T19:00:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwi -->
+        <test-method signature="postjira()[pri:0, instance:vinay.Mevenjava.RestAPITest@43dac38f]" started-at="2022-05-30T19:00:49 IST" name="postjira" finished-at="2022-05-30T19:00:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- vinay.Mevenjava.RestAPITest -->
+      <class name="vinay.Mevenjava.ApiumTest">
+        <test-method signature="IOSapp()[pri:0, instance:vinay.Mevenjava.ApiumTest@25fb8912]" started-at="2022-05-30T19:00:49 IST" name="IOSapp" finished-at="2022-05-30T19:00:49 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+        <test-method signature="nativeAndroid()[pri:0, instance:vinay.Mevenjava.ApiumTest@25fb8912]" started-at="2022-05-30T19:00:49 IST" name="nativeAndroid" finished-at="2022-05-30T19:00:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroid -->
+      </class> <!-- vinay.Mevenjava.ApiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
